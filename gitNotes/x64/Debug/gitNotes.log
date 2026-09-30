@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\FS class work\FS_SoftwareEngineer\week1\gitNotes\main.cpp(5,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  gitNotes.vcxproj -> C:\FS class work\FS_SoftwareEngineer\week1\gitNotes\x64\Debug\gitNotes.exe
